@@ -34,7 +34,7 @@ abstract class Animal {
     // Abstract method to check equality between two Animal objects
     public abstract boolean equals(Animal a);
 
-//    // Prints the details of the animal (commented out)
+    // Prints the details of the animal (commented out)
 //    public void print(){
 //        System.out.println(_name + " " + _breed + " " + _age);
 //    }
