@@ -110,4 +110,3 @@ public class templatinglab {
         recipe.addIngredient(ingredient);
     }
 }
-}
